@@ -1,11 +1,6 @@
+ Projects:
 
-
-A simple and user-friendly application designed to help students manage and track their daily expenses.
-
- Projects
-
- 1. Student Expense Tracker
-
+Task 1. Student Expense Tracker
 A personal expense management application that helps students record, organize, and monitor their daily spending.
 
 Features:
@@ -16,8 +11,7 @@ Features:
 - Organize transactions by category
 - Store expense data securely
 
- 2. Hangman Game
-
+Task 2. Hangman Game
 A classic word-guessing game developed to provide an interactive and entertaining gaming experience.
 
 Features:
@@ -28,8 +22,7 @@ Features:
 - Win and lose conditions
 - Simple and user-friendly gameplay
 
- 3. Stock Portfolio Tracker
-
+Task 3. Stock Portfolio Tracker
 An application designed to help users monitor stock prices and manage their investment portfolio.
 
 Features:
@@ -40,8 +33,7 @@ Features:
 - Calculate total investment value
 - Simple and intuitive interface
 
- Technologies Used
-
+ Technologies Used:
 - Python
 - SQLite
 - HTML
