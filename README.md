@@ -1,4 +1,4 @@
-# Student Expense Tracker
+
 
 A simple and user-friendly application designed to help students manage and track their daily expenses.
 
